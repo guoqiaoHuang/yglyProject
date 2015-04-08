@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ColorButton</key>
+	<array>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>返回</string>
+				<key>method</key>
+				<string>backClicked:</string>
+				<key>size</key>
+				<string>{90,23}</string>
+				<key>size_Iphone5</key>
+				<string>{90,23}</string>
+				<key>size_Iphone4</key>
+				<string>{90,23}</string>
+				<key>position</key>
+				<string>{45,30}</string>
+				<key>position_Iphone5</key>
+				<string>{45,30}</string>
+				<key>position_Iphone4</key>
+				<string>{45,30}</string>
+				<key>fontsize_Iphone5</key>
+				<string>15</string>
+				<key>fontsize_Iphone4</key>
+				<string>15</string>
+				<key>highlightcolor</key>
+				<string>#6699FF</string>
+				<key>color</key>
+				<string>#CCCCCC</string>
+				<key>textcolor</key>
+				<string>#3366CC</string>
+				<key>texthighlightcolor</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buttons</key>
+	<array>
+		<array>
+			<dict>
+				<key>image</key>
+				<string>关闭默认.png</string>
+				<key>highlighted</key>
+				<string>关闭按下.png</string>
+				<key>method</key>
+				<string>backClicked:</string>
+				<key>position</key>
+				<string>{30,30}</string>
+				<key>position_Iphone5</key>
+				<string>{30,30}</string>
+				<key>position_Iphone4</key>
+				<string>{30,30}</string>
+				<key>tag</key>
+				<string>111</string>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>

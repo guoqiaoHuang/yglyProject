@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E5348AC-BA1D-404C-85C7-4F1A16FFD760</string>
+	<key>IDESourceControlProjectName</key>
+	<string>yglyProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33f0e3e4-1031-8d4a-a79c-3e083c1c4300++3727</key>
+		<string>https://115.29.225.208:8443/svn/app/code</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>yglyProject/yglyProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33f0e3e4-1031-8d4a-a79c-3e083c1c4300++3727</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>33f0e3e4-1031-8d4a-a79c-3e083c1c4300++3727</key>
+		<string>https://115.29.225.208:8443/svn/app</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://115.29.225.208:8443/svn/app/code/yglyProject/yglyProject.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33f0e3e4-1031-8d4a-a79c-3e083c1c4300++3727</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33f0e3e4-1031-8d4a-a79c-3e083c1c4300++3727</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code</string>
+		</dict>
+	</array>
+</dict>
+</plist>

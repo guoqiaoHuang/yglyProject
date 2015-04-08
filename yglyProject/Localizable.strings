@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  AppKeFuDemo
+
+  Created by jack on 14-6-18.
+  Copyright (c) 2014年 appkefu.com. All rights reserved.
+*/
+
+"AppKeFu"="微客服";
+"Photo"="照片";
+"Camera"="拍照";
+"FAQ"="FAQ";
+"FAQ2"="常见问题";
+"Send"="发送";
+
+"Slide Up Cancel"="手指上划,取消发送";
+"Lose Up Cancel"="松开手指,取消发送";
+"Read More"="阅读详情";
+"Press To Record"="按住 说话";
+"Lose To Cancel"="松开 取消";
+"Are you sure to delete this message?"="是否删除该条消息";
+
+"Cancel"="取消";
+"OK"="确定";
+"Tip"="提示";
+"SimulatorNoVoice"="模拟器不支持语音";
+"Delete"="删除";
+"RateThisAgent"="评价客服";
+"PleaseRateThisAgent"="请对客服的服务进行评价";
+"Bad"="很差";
+"Good"="非常满意";
+"JustSoSo"="满意";
+"Promotion"="提示";
+"AgentCloseSession"="客服关闭会话";
+"AgentQuitSession"="客服退出会话";
+"There are %d agent before you, about to wait %@ seconds"="您前面还有%d位访客,约需要等待%@秒";
+"There are %d agent before you, please wait"="您前面还有%d位访客,请您耐心等待";
+"NoAgentOnline"="当前无客服在线,请留言.客服会在上线后第一时间回复您!";
+
+"Settings"="设置";
+"OnlineStatus"="在线状态";
+"AgentName"="客服名";
+"PlayVoiceWhenSendMessage"="发送消息时播放提示音";
+"PlayVoiceWhenReceiveMessage"="接收到消息播放提示音";
+"Vibrate"="消息振动";
+"ClearMessages"="清空聊天记录";
+"AreYouSureToClearMessages"="确定要清空消息记录?";
+"Online"="在线";
+"Offline"="离线";
+
+"faqTitle"="常见问题";
+"contacting"="联系客服中";
+"contacting %@"="联系客服中 %@";
+"ContinueWait"="继续等待";
+"OutOfTime"="连接超时";
+"CloseSessionAsure"="确定要关闭会话?";
+"RequestSuccess"="成功连接客服";
+"LeaveMessage"="留言";
+"AreYouSureToCall?"="确定要拨打电话?";
+
+"NoRecordDevice"="无录音设备";
+"AllowUsingMicrophone"="请到:设置->隐私->麦克风 开启麦克风";
+"Yestoday %@"="昨天 %@";
+"DayBeforeYestoday %@"="前天 %@";
+
+"Done" = "完成";
+"Open in Chrome" = "用 Chrome 打开";
+"Open in Safari" = "用 Safari 打开";
+"Copy URL" = "复制链接";
+"Close" = "结束会话";
+"Leave" = "暂时离开";
+"Rate"="满意度";
+
+
+
+
+
+
+
+
